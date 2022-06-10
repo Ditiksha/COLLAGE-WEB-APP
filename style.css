@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(to right top, #b5f6ff, #ffcab7, #f3c2fc, #befce4, #d6f69e, #f8ddb3, #befdbe, #fad6ea);
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: 'Dancing Script', cursive;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+#camera {
+    width: 500px;
+    height: 400px;
+    border-color: crimson;
+}
+
+img {
+    height: 500px;
+    width: 700px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: inset;
+}
+
+.column {
+    display: inline;
+    padding: 30px;
+}
